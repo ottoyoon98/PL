@@ -1,3 +1,6 @@
+#c/c++ configuration files
+.vscode/*.json
+
 # Prerequisites
 *.d
 
